@@ -2,4 +2,4 @@
 
 Oi, sou Nicolas Fernandes!
 
-Sou estudante de BTI na UFERSA.
+Sou estudante de ADS na IFRN.
